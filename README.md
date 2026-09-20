@@ -1,32 +1,42 @@
-# Hi, I'm Michel Balvin 👋
+# Hey, I'm Michel 👋
 
-**Software Engineer** based in Lima, Peru. I build dependable backend systems for products that need clarity, scalability, and maintainability.
+**Software Engineer · Backend Systems · Cloud & Applied AI**
 
-[Portfolio](https://michelbalvinormedo1.github.io/portafolio/) · [LinkedIn](https://www.linkedin.com/in/michel-balvin-ormedo-5b091a26b/) · [Email](mailto:michelbalvinor@gmail.com)
+I enjoy turning complex requirements into dependable software: from multi-tenant SaaS products to automation-heavy backend platforms. I care about clear APIs, maintainable architecture, and products that make a real difference for the people using them.
 
-## About me
+- 🔭 Currently contributing to multi-tenant backend architectures.
+- 🧩 Building services with NestJS, Python, Java, AWS, and Docker.
+- 🌱 Exploring practical ways to use generative AI in developer workflows and product experiences.
+- ⚡ Fun fact: I built my own OBD2 telemetry application to turn vehicle data into useful driving insights.
+- 🌐 Portfolio: [michelbalvinormedo1.github.io/portafolio](https://michelbalvinormedo1.github.io/portafolio/)
 
-- Building and evolving backend products, from Occupational Health and Safety SaaS platforms to automated notarial systems.
-- Working with multi-tenant architectures, cloud-native services, and clean, maintainable code.
-- Interested in practical AI integrations that improve developer and user experiences.
-- Creator of an OBD2 telemetry application for turning vehicle data into actionable insights.
+## Tech Stack
 
-## Core stack
-
-| Area | Technologies |
+| Category | Technologies |
 | --- | --- |
-| Backend | TypeScript, NestJS, Python, FastAPI, Flask, Java, Spring Boot |
-| Data | PostgreSQL, MongoDB, DynamoDB, Redis |
-| Cloud & DevOps | AWS Lambda, S3, CloudWatch, Docker, GitHub Actions |
-| Architecture | SOLID, Clean Architecture, REST APIs, multi-tenancy |
-| Applied AI | OpenAI API, Claude Code, Cursor |
+| ⚙️ Backend & APIs | TypeScript, NestJS, Python, FastAPI, Flask, Java, Spring Boot |
+| 🗄️ Data | PostgreSQL, MongoDB, DynamoDB, Redis |
+| ☁️ Cloud & DevOps | AWS Lambda, S3, CloudWatch, Docker, GitHub Actions |
+| 🧱 Architecture | SOLID, Clean Architecture, REST APIs, multi-tenancy |
+| 🤖 Applied AI | OpenAI API, vector databases, Claude Code, Cursor |
+| 🎨 Frontend | Astro, React, Tailwind CSS |
 
-## Featured work
+## Featured Projects
 
 ### [Personal Portfolio](https://michelbalvinormedo1.github.io/portafolio/)
 
-A bilingual portfolio built with Astro, React, and Tailwind CSS. It includes my professional experience, core skills, selected work, and CV preview.
+Bilingual portfolio built with Astro, React, and Tailwind CSS. It includes my experience, technical toolkit, selected work, and an in-page CV preview.
 
-## Let's connect
+### LOXU Platform
 
-If you are working on backend systems, SaaS products, or developer tools, feel free to reach out through my [portfolio](https://michelbalvinormedo1.github.io/portafolio/) or [LinkedIn](https://www.linkedin.com/in/michel-balvin-ormedo-5b091a26b/).
+A multi-tenant SaaS platform focused on operating and scaling businesses from a reliable, extensible core.
+
+### OBD2 Telemetry
+
+A mobile-focused telemetry project that turns vehicle data into clear, actionable driving insights.
+
+## Let's Connect
+
+If you are building backend systems, SaaS products, or developer tools, I'd be happy to connect.
+
+[Portfolio](https://michelbalvinormedo1.github.io/portafolio/) · [LinkedIn](https://www.linkedin.com/in/michel-balvin-ormedo-5b091a26b/) · [Email](mailto:michelbalvinor@gmail.com)
